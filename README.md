@@ -14,8 +14,31 @@
 
 ## Estructura del Proyecto
 
-
-
+📦 src/
+│
+└── 📁 gestonotasconUsuario/
+    │
+    ├── 📁 app/
+    │   └── 📄 Main.java                   [Punto de entrada]
+    │
+    ├── 📁 gui/
+    │   ├── 📄 Ventana.java               [Ventana principal]
+    │   ├── 📄 Login.java                 [Autenticación]
+    │   └── 📄 Notas.java                 [Gestión de notas]
+    │
+    ├── 📁 model/
+    │   ├── 📄 Usuario.java               [Modelo Usuario]
+    │   └── 📄 Nota.java                  [Modelo Nota]
+    │
+    ├── 📁 security/
+    │   └── 📄 SecurityUtil.java          [Encriptación SHA-256]
+    │
+    ├── 📁 service/
+    │   ├── 📄 UsuarioService.java        [Lógica de usuarios]
+    │   └── 📄 NotaService.java           [Lógica de notas]
+    │
+    └── 📁 utils/
+        └── 📄 Validador.java             [Validaciones]
 
 
 
