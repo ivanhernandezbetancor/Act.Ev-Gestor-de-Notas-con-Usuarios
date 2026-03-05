@@ -14,8 +14,7 @@
 
 ## Estructura del Proyecto
 
-<img width="813" height="509" alt="image" src="https://github.com/user-attachments/assets/0f3a6ece-272c-4d56-991b-6040d536e015" />
-
+<img width="685" height="500" alt="Captura de pantalla 2026-03-05 175815" src="https://github.com/user-attachments/assets/168a7d28-b578-4bbd-a797-b432bc63e593" />
 
 
 
